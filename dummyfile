@@ -27,5 +27,5 @@ compact10x(name, assay(sce), id=rownames(sce), symbol=rowData(sce)$Symbol)
 
 
 ===============
-tEST CODE 
+tEST CODE sdghlkjjdkjsfgdkhbn
 ===============
