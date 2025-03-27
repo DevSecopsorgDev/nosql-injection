@@ -24,3 +24,8 @@ source("../_scripts/compact10x.R")
 name <- "tenx.h5"
 unlink(name)
 compact10x(name, assay(sce), id=rownames(sce), symbol=rowData(sce)$Symbol)
+
+
+===============
+tEST CODE 
+===============
